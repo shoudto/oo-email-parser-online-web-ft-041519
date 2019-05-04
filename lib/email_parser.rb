@@ -17,7 +17,7 @@ class EmailParser
     emails.split(",") do |email|
      array << email
     end 
-    binding.pry 
+    # binding.pry 
     array
   end 
 
