@@ -20,3 +20,5 @@ class EmailParser
     binding.pry 
     array
   end 
+
+end 
