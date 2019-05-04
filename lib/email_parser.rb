@@ -18,7 +18,7 @@ class EmailParser
      array << email
     end 
     # binding.pry 
-    array
+    array.uniq 
   end 
 
 end 
